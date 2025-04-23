@@ -46,8 +46,8 @@ namespace MainSub
 
             //CostumerName = "Kadir";
             //CostumerSurname = "Kanıtez";
-            //CostumerPhone = "+90 546 670 36 06";
-            //CostumerEmail = "kadirsud@gmail.com";
+            //CostumerPhone = "+90 546 546 46 46";
+            //CostumerEmail = "kadir@gmail.com";
             //district = "Mamak";
             //city = "Ankara";
 
@@ -71,7 +71,7 @@ namespace MainSub
             //CostumerName1 = "Koray";
             //CostumerSurname1 = "Boztepe";
             //CostumerPhone1 = "+90 500 400 40 20";
-            //CostumerEmail1 ="koray.boztepe@gmail.com";
+            //CostumerEmail1 ="koray@gmail.com";
             //district1 = "Ankara";
             //city1 = "Çankaya";
 
