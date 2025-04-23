@@ -1,0 +1,7 @@
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\bin\Debug\MainSub.exe.config
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\bin\Debug\MainSub.exe
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\bin\Debug\MainSub.pdb
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\obj\Debug\MainSub.csproj.AssemblyReference.cache
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\obj\Debug\MainSub.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\obj\Debug\MainSub.exe
+C:\Users\kadir\OneDrive\Desktop\CSharp\MainSub\obj\Debug\MainSub.pdb
